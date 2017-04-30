@@ -1,0 +1,14 @@
+30.04.2017 2124:10:33-644:
+Dynamic Programming | value: 647.0, total weight: 637.0
+RucksackObject: Price: 141 | Weight: 239
+RucksackObject: Price: 201 | Weight: 191
+RucksackObject: Price: 73 | Weight: 54
+RucksackObject: Price: 232 | Weight: 153
+
+30.04.2017 2124:10:38-566:
+Dynamic Programming with FPTAS | value: 64.0, total weight: 637.0
+RucksackObject: Price: 14 | Weight: 239
+RucksackObject: Price: 20 | Weight: 191
+RucksackObject: Price: 7 | Weight: 54
+RucksackObject: Price: 23 | Weight: 153
+
