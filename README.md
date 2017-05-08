@@ -1,7 +1,7 @@
 RucksackSolver
 ====================================
 
-LogCleanClient is a project to solve the rucksack problem with dynamic programming and as well with the FPTAS.
+RucksackSolver is a project to solve the rucksack problem with dynamic programming and as well with the FPTAS.
 The project was written and tested in Java.
 The corresponding .Net (C#) implementation can be found here: https://github.com/SeppPenner/RucksackSolverC-
 
