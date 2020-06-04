@@ -14,4 +14,4 @@ The corresponding .Net (C#) implementation can be found here: https://github.com
 Change history
 --------------
 
-* **Version 1.0.0.0 (2017-04-30)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/RucksackSolver/blob/master/Changelog.md).
